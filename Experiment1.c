@@ -1,3 +1,5 @@
+//This is the code minus the configuration bits
+
 # include <xc.h>
 
 void main(void) {
