@@ -5,7 +5,8 @@
  * Created on September 15, 2021, 4:58 PM
  */
  
- 
+//This is the code minus the configuration bits
+
 #include <xc.h>
  
 void main(void)
